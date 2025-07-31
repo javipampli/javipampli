@@ -44,7 +44,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/javipampli/javipampli/output/snake.svg" alt="Snake animation" />
-
-###
